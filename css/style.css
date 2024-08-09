@@ -844,6 +844,10 @@ img {
   padding-right: calc(50% - 570px);
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   overflow-x: hidden;
 }

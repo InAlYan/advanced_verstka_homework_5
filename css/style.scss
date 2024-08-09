@@ -25,6 +25,10 @@ img {
     padding-right: calc(50% - $contentWidth / 2);
 }
 
+html {
+    overflow-x: hidden;
+}
+
 body {
     overflow-x: hidden;
 }
