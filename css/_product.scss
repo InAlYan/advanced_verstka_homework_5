@@ -115,8 +115,8 @@
     }
 }
 
-
-@media (max-width: calc($contentWidth - 1px)) and (min-width: 768px) {
+// 768px - 1024px //
+@media (max-width: 1139px) and (min-width: 768px) {
     //----------------------------------
     .first-section-bottom {
 

@@ -83,7 +83,7 @@
 }
 
 // 768px - 1024px //
-@media (max-width: calc($contentWidth - 1px)) and (min-width: 768px) {
+@media (max-width: 1139px) and (min-width: 768px) {
     //---------------------------------- ok
     .registration {
         gap: 22px;
